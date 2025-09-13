@@ -54,7 +54,3 @@ Options:
   -t               TCP scan
   --help           Show this message and exit.
 ```
-
-# Audit questions
-
-[Audit questions](https://github.com/01-edu/public/tree/master/subjects/cybersecurity/active/audit)
